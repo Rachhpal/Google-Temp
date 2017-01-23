@@ -51,7 +51,7 @@ body {
 
 #name {
     font-family: sans-serif;
-    color: gray;
+    color: #fcf41b;
     font-weight: lighter;
     font-size: 14px;
     display: inline;
@@ -60,7 +60,7 @@ body {
 }
 
 .twolinks:link {
-    color: black;
+    color: #ffff00;
     text-decoration: none;
     font-family: sans-serif;
     font-weight: lighter;
@@ -95,7 +95,7 @@ body {
     border-radius: 22px;
     -webkit-border-radius: 22px;
     -moz-border-radius: 22px;
-    background-color: gray;
+    background-color: #ffff00;
     top: 20px;
     left: 240px;
 }
@@ -105,7 +105,7 @@ body {
     width: 35px;
     height: 35px;
     border-radius: 35px;
-    background-color: #2178b8;
+    background-color: #ffeaea;
     left: 282px;
     top: 12px;
 }
@@ -114,7 +114,7 @@ body {
     font-family: sans-serif;
     text-align: center;
     margin-top: 5px;
-    color: white;
+    color: #ff00000;
     font-size: 20px;
 }
 
@@ -151,7 +151,7 @@ body {
     position: absolute;
     width: 140px;
     height: 40px;
-    background-color: #f2f2f2;
+    background-color: ##f9fbff;
     top: 250px;
     text-align: center;
 }
@@ -169,7 +169,7 @@ body {
     width: 100%;
     height: 50px;
     bottom: 0;
-    background: #f2f2f2;
+    background: #ffffff;
     border-top: 1px solid #e4e4e4;
 }
 
@@ -202,7 +202,7 @@ body {
 
 .nav-bottom-a:visited {
     text-decoration: none;
-    color: #777;
+    color: #ffec26;
 }
 
 .nav-bottom-a:hover {

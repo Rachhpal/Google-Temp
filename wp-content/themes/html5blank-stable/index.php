@@ -2,7 +2,7 @@
 
 			<?php get_template_part('pagination'); ?>
 			<div id="center-div">
-        <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" id="logo" />
+        <img src="http://inspirationfeed.com/wp-content/uploads/2010/09/d4gwinner09_uk-hp1.gif" id="logo" />
         <input type="text" id="searchbox" />
         <a href="">
             <div class="twobuttons" style="left: 200px;">
@@ -13,5 +13,6 @@
             <div class="twobuttons" style="left: 355px;">
                 <p>I'm Feeling Lucky</p>
             </div>
-        </a>
+	</a>
+
     </div>

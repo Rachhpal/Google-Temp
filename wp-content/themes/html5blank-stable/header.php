@@ -43,13 +43,36 @@
         <a href="" class="twolinks">
             Images
         </a>
-        <img src="dots.png" id="ninedots" />
-        <div id="notif">
+       
+       	 <div id="notif">
         </div>
         <div id="name-div">
-            <p>R.S.P</p>
+            <p>R</p>
         </div>
     </div>
 
-
+  <div id="nav-bottom">
+        <div id="nav-bottom-left">
+            <a href="" class="nav-bottom-a">
+                Advertising
+            </a>
+            <a href="" class="nav-bottom-a">
+                Business
+            </a>
+            <a href="" class="nav-bottom-a">
+                About
+            </a>
+        </div>
+        <div id="nav-bottom-right">
+            <a href="" class="nav-bottom-a">
+                Privacy
+            </a>
+            <a href="" class="nav-bottom-a">
+                Terms
+            </a>
+            <a href="" class="nav-bottom-a">
+                Settings
+            </a>
+        </div>
+    </div>
            
